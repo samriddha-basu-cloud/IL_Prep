@@ -1,5 +1,7 @@
 # KPI Book Cases — Vibrant Video & Bob's Custom BBQs (Full Solutions)
-The two **exact book cases** in *KPIs book cases.pdf* 📘 (Case 11.1 and 11.2, source: Brian J. Gibson, Ph.D.), with every calculation worked out. Use the tables in [Transportation KPIs, Freight Terms & Scorecards](ch08-transportation-kpis-scorecards.md) — especially **Table 11.4** for the FOB terms. The book prints "speaker" twice in questions 2–5 and "SSE" in question 6; read Q4–Q5 as the **receivers** and Q6 as **V²** (the textbook's typos).
+The two **exact book cases** in *KPIs book cases.pdf* 📘 (Case 11.1 and 11.2, source: Brian J. Gibson, Ph.D.), with every calculation worked out. Use the tables in [Transportation KPIs, Freight Terms & Scorecards](ch08-transportation-kpis-scorecards.md) — especially **Table 11.4** for the FOB terms. 📄 **Original case pages:** [KPIs book cases (PDF, 4 pages)](resources/KPIs-book-cases.pdf) — open it alongside this page to check the data tables.
+
+The book prints "speaker" twice in questions 2–5 and "SSE" in question 6; read Q4–Q5 as the **receivers** and Q6 as **V²** (the textbook's typos).
 
 ---
 
